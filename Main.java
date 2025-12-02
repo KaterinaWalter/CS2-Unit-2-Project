@@ -20,7 +20,7 @@
             System.out.println("OMG it's Lebron's wedding!!! You take a pic 📸 then get thrown out by security. Worth it though!");
          }
          else if ( command.equals("n") ) {
-            System.out.println("You keep walking north until you reach the Natural History Museum 🏛️");
+            System.out.println("You keep walking until you reach the Natural History Museum 🏛️");
          }
 
       }
